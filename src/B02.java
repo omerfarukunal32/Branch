@@ -3,6 +3,8 @@ public class B02 {
         /*
         git branch murat  , branc #h olusturur
         git checkout murat ,  muratin branch'ine gider
+        git merge halil  ,   halil'i master'a alir, birlestirir
+
          */
     }
 }
