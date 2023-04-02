@@ -17,6 +17,11 @@ public class B01 {
                     - calismalarin her ikisini de silebilir
                     - Birini silip birini tutabilir
                     - Her ikisinide cakismayacak sekilde duzenleyip tutabilir
+
+
+               git restore .      yapilan tüm degisiklikleri geri alir
+               git reset --hard    working space'deki degisiklikleri iptal eder
+               git checkout [hashkod/refkod] .    belirtilen versiyona donuyor
          */
 
     }
